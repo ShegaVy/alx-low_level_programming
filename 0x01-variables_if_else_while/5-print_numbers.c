@@ -1,4 +1,7 @@
 #include<stdio.h>
+/*
+shegavy
+*/
 int main(void)
 {
 	int digit = 0;
